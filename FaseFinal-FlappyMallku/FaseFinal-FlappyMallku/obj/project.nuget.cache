@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNafBj6w3X0=",
+  "dgSpecHash": "yCqs0iC/5tk=",
   "success": true,
-  "projectFilePath": "c:\\Users\\PC\\Desktop\\Proyectoflappybirds\\FaseFinal-FlappyMallku (2)\\FaseFinal-FlappyMallku\\FaseFinal-FlappyMallku\\Flappymallku.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Proyectoflappybirds\\FaseFinal-FlappyMallku (2)\\FaseFinal-FlappyMallku\\FaseFinal-FlappyMallku\\FlappyMallku.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -250,9 +250,7 @@ namespace Flappymallku
                     }
                     catch (Exception ex)
                     {
-                        // Puedes mostrar un mensaje en consola o en pantalla
-                        Console.WriteLine("Error al leer los puntajes: " + ex.Message);
-                        // Opcional: muestra un mensaje en pantalla o vuelve al menú
+                        Console.WriteLine("Error al leer los puntajes: " + ex.Message);                       
                         estadoActual = EstadoJuego.Start;
                     }
                 }

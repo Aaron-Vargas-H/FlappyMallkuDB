@@ -52,8 +52,8 @@ namespace Flappymallku
                         {
                             Nickname = reader.GetString(0),
                             Puntaje = reader.GetInt32(1),
-                            // Ya no intentamos leer la columna Fecha
-                            Fecha = DateTime.MinValue // Puedes dejarlo así si el objeto la requiere
+                            
+                            Fecha = DateTime.MinValue 
                         });
                     }
                 }
