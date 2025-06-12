@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>d:/MallkuBirdFinal/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/FondoFinal.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYBIRDFINAL/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/nicknameButton.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYBIRDFINAL/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/exitButton.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYBIRDFINAL/FaseFinal-FlappyMallku/Content/replayButton.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYBIRDFINAL/FaseFinal-FlappyMallku/Content/menuButton.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/FuentePuntaje.spritefont</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/gameover.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/laPaz.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/mallku.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/painicio.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/pascore.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/playButton.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/points.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/scoreButton.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/tuberiaHigh.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/tuberiaLow.png</File>
+    <File>d:/PROGRAMACIÓN MIKY/FLAPPYmallkuFINAL/FLAPPYmallkuVIDAS/Content/Vidas.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

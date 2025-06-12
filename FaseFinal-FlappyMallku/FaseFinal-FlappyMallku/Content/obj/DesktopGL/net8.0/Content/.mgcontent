@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/exitButton.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/FondoFinal.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/FuentePuntaje.spritefont</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/gameover.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/laPaz.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/mallku.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/menuButton.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/painicio.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/pascore.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/playButton.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/points.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/replayButton.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/scoreButton.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/tuberiaHigh.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/tuberiaLow.png</File>
+    <File>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/Vidas.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,252 @@
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\FuentePuntaje.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\gameover.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\laPaz.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\mallku.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\painicio.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\pascore.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\playButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\points.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\scoreButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaHigh.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaLow.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\Vidas.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Flappymallku.exe
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Flappymallku.deps.json
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Flappymallku.runtimeconfig.json
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Flappymallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Flappymallku.pdb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\MonoGame.Framework.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\NVorbis.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappyma.556B2E30.Up2Date
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\refint\Flappymallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.pdb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappymallku.genruntimeconfig.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\obj\Debug\net8.0\ref\Flappymallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\menuButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\replayButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\FuentePuntaje.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\gameover.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\laPaz.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\mallku.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\menuButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\painicio.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\pascore.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\playButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\points.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\replayButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\scoreButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaHigh.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaLow.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\Vidas.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.exe
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.deps.json
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.runtimeconfig.json
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.pdb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\MonoGame.Framework.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\NVorbis.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.csproj.AssemblyReference.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.GeneratedMSBuildEditorConfig.editorconfig
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.AssemblyInfoInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.AssemblyInfo.cs
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.csproj.CoreCompileInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMa.0889D590.Up2Date
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\refint\FlappyMallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.pdb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.genruntimeconfig.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\ref\FlappyMallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\exitButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\nicknameButton.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Data.SqlClient.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\exitButton.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\FuentePuntaje.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\gameover.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\laPaz.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\mallku.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\menuButton.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\painicio.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\pascore.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\playButton.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\points.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\replayButton.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\scoreButton.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaHigh.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaLow.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\Vidas.xnb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.exe
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.deps.json
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.runtimeconfig.json
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.pdb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\MonoGame.Framework.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\NVorbis.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Data.SqlClient.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.csproj.AssemblyReference.cache
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.GeneratedMSBuildEditorConfig.editorconfig
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.AssemblyInfoInputs.cache
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.AssemblyInfo.cs
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.csproj.CoreCompileInputs.cache
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMa.0889D590.Up2Date
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\refint\FlappyMallku.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.pdb
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.genruntimeconfig.cache
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\ref\FlappyMallku.dll
+d:\MallkuBirdFinal\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\FondoFinal.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\exitButton.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\FondoFinal.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\FuentePuntaje.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\gameover.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\laPaz.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\mallku.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\menuButton.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\painicio.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\pascore.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\playButton.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\points.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\replayButton.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\scoreButton.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaHigh.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\tuberiaLow.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Content\Vidas.xnb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.exe
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.deps.json
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.runtimeconfig.json
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\FlappyMallku.pdb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\NVorbis.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.AssemblyInfo.cs
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\refint\FlappyMallku.dll
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.pdb
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\FlappyMallku.genruntimeconfig.cache
+C:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\ref\FlappyMallku.dll
+c:\Users\PC\Desktop\Proyectoflappybirds\FaseFinal-FlappyMallku (2)\FaseFinal-FlappyMallku\FaseFinal-FlappyMallku\obj\Debug\net8.0\Flappyma.556B2E30.Up2Date

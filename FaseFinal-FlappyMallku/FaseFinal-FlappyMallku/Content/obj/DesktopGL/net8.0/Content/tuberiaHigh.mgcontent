@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/tuberiaHigh.png</SourceFile>
+  <SourceTime>2025-06-11T21:39:40.8765817-04:00</SourceTime>
+  <DestFile>c:/Users/PC/Desktop/Proyectoflappybirds/FaseFinal-FlappyMallku (2)/FaseFinal-FlappyMallku/FaseFinal-FlappyMallku/Content/bin/DesktopGL/Content/tuberiaHigh.xnb</DestFile>
+  <DestTime>2025-06-12T00:34:34.1475011-04:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2025-04-05T06:10:54-04:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2025-04-05T06:10:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

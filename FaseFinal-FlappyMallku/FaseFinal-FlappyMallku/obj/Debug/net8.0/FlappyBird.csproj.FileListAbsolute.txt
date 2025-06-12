@@ -1,0 +1,191 @@
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.exe
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.deps.json
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.runtimeconfig.json
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.pdb
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\NVorbis.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.csproj.Up2Date
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\refint\Flappymallku.dll
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.pdb
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.genruntimeconfig.cache
+C:\Users\PC\Desktop\Proyecto flappy mallkus\Flappymallku\obj\Debug\net8.0\ref\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\Content\Pajaro.xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.exe
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.deps.json
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.runtimeconfig.json
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\Flappymallku.pdb
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\NVorbis.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.csproj.Up2Date
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\refint\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.pdb
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.genruntimeconfig.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\ref\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\Flappymallku\obj\Debug\net8.0\Flappymallku.sourcelink.json
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Content\Pajaro.xnb
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Flappymallku.exe
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Flappymallku.deps.json
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Flappymallku.runtimeconfig.json
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Flappymallku.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Flappymallku.pdb
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.csproj.Up2Date
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\refint\Flappymallku.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.pdb
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\Flappymallku.genruntimeconfig.cache
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\obj\Debug\net8.0\ref\Flappymallku.dll
+C:\Users\Joel Corina\Downloads\Flappymallku-Proyecto-master\Flappymallku-Proyecto-master\bin\Debug\net8.0\Content\tuberiaLow.xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Content\Pajaro.xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Content\tuberiaLow.xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Flappymallku.exe
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Flappymallku.deps.json
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Flappymallku.runtimeconfig.json
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Flappymallku.pdb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\NVorbis.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.csproj.Up2Date
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\refint\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.pdb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\Flappymallku.genruntimeconfig.cache
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\obj\Debug\net8.0\ref\Flappymallku.dll
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Content\FuenteGameOver.xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Content\WalpperslaPaz.xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Content\FuentePuntaje .xnb
+C:\Users\PC\Desktop\Proyectoflappymallkus\proyecto\bin\Debug\net8.0\Content\FuentePuntaje.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\FuentePuntaje .xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\FuentePuntaje.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\FuenteGameOver.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\Pajaro.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\tuberiaLow.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\WalpperslaPaz.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Flappymallku.exe
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Flappymallku.deps.json
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Flappymallku.runtimeconfig.json
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Flappymallku.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Flappymallku.pdb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\MonoGame.Framework.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\NVorbis.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\android-arm\native\libopenal.so
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\android-arm64\native\libopenal.so
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\android-x64\native\libopenal.so
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\android-x86\native\libopenal.so
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\ios-arm64\native\libopenal.dylib
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\iossimulator-arm64\native\libopenal.dylib
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\iossimulator-x64\native\libopenal.dylib
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\osx\native\libopenal.dylib
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\win-x64\native\openal.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.csproj.Up2Date
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\refint\Flappymallku.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.pdb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\Flappymallku.genruntimeconfig.cache
+c:\sql leonel gorostiaga\FlappymallkuConVidas\obj\Debug\net8.0\ref\Flappymallku.dll
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\Dia.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\FondosCristo.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\FondosLuna.xnb
+c:\sql leonel gorostiaga\FlappymallkuConVidas\bin\Debug\net8.0\Content\PajaroDia.xnb
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.csproj.AssemblyReference.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.GeneratedMSBuildEditorConfig.editorconfig
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.AssemblyInfoInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.AssemblyInfo.cs
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.csproj.CoreCompileInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\refint\Flappymallku.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYmallkuFINAL\FLAPPYmallkuVIDAS\obj\Debug\net8.0\Flappymallku.pdb
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.csproj.AssemblyReference.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.AssemblyInfoInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.AssemblyInfo.cs
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.csproj.CoreCompileInputs.cache
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\refint\FlappyBird.dll
+d:\PROGRAMACIÓN MIKY\FLAPPYBIRDFINAL\FLAPPYBIRDVIDAS\obj\Debug\net8.0\FlappyBird.pdb
